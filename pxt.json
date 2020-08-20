@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/GHBit-strings.json"
+        "_locales/zh-CN/GHBit-strings.json"
 
     ],
     "testFiles": [
